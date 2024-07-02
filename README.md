@@ -33,7 +33,7 @@ This project is a C-based virtual memory simulator for multi-process environment
 ### Building the Project
 1. Clone the repository:
     ```bash
-    git clone https://github.com/agrawalshivang/Virtual-Memory-Simulator
+    git clone https://github.com/codema09/Virtual-Memory-Simulator
     ```
 2. Compile the code:
     ```bash
